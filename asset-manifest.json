@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Olx-Design/static/css/main.393b6296.chunk.css",
+    "main.js": "/Olx-Design/static/js/main.49beed04.chunk.js",
+    "main.js.map": "/Olx-Design/static/js/main.49beed04.chunk.js.map",
+    "runtime-main.js": "/Olx-Design/static/js/runtime-main.4537b989.js",
+    "runtime-main.js.map": "/Olx-Design/static/js/runtime-main.4537b989.js.map",
+    "static/js/2.c64c2a8b.chunk.js": "/Olx-Design/static/js/2.c64c2a8b.chunk.js",
+    "static/js/2.c64c2a8b.chunk.js.map": "/Olx-Design/static/js/2.c64c2a8b.chunk.js.map",
+    "index.html": "/Olx-Design/index.html",
+    "static/css/main.393b6296.chunk.css.map": "/Olx-Design/static/css/main.393b6296.chunk.css.map",
+    "static/js/2.c64c2a8b.chunk.js.LICENSE.txt": "/Olx-Design/static/js/2.c64c2a8b.chunk.js.LICENSE.txt",
+    "static/media/olx-logo.b3f099a2.png": "/Olx-Design/static/media/olx-logo.b3f099a2.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4537b989.js",
+    "static/js/2.c64c2a8b.chunk.js",
+    "static/css/main.393b6296.chunk.css",
+    "static/js/main.49beed04.chunk.js"
+  ]
+}
